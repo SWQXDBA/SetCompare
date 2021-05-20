@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/SWQXDBA/CLionProjects/SetCompare/main.cpp
+iostream
+-
+string
+-
+vector
+-
+map
+-
+iterator
+C:/Users/SWQXDBA/CLionProjects/SetCompare/iterator
+algorithm
+C:/Users/SWQXDBA/CLionProjects/SetCompare/algorithm
+cstdio
+-
+set
+C:/Users/SWQXDBA/CLionProjects/SetCompare/set
+
